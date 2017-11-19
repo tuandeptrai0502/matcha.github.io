@@ -1,0 +1,36 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="matcha.com" resolutions="1x" timestamp="1510999487571">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="356495930" ref="index"/>
+    <file name="index.css" crc="3916801935" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="doi-che-crop-u94.jpg" crc="4199041947" ref="index"/>
+    <file name="matcha.jpg" crc="4136829080" seo="true" ref="index"/>
+    <file name="u232-4.png" crc="195319408" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="23732598_2035825859984099_547539766_o.png" crc="375751732" seo="true" ref="index"/>
+    <file name="matcha-white-background.jpg" crc="332744255" seo="true" ref="index"/>
+    <file name="tải xuống.jpg" crc="3842967934" seo="true" ref="index"/>
+    <file name="23667425_2035843406649011_2146766896_n.jpg" crc="4092725363" seo="true" ref="index"/>
+    <file name="images (5).jpg" crc="4149958617" seo="true" ref="index"/>
+    <file name="dap-bot-matcha-tra-xanh-trang-da.jpg" crc="4232934362" seo="true" ref="index"/>
+    <file name="bi-quyet-day-lui-lao-hoa-da-hieu-qua-khong-ton-tien-155429.jpg" crc="4007127349" seo="true" ref="index"/>
+    <file name="images (6).jpg" crc="4117946389" seo="true" ref="index"/>
+    <file name="21015649_1998605383706147_1185044615_n.jpg" crc="19096296" seo="true" ref="index"/>
+    <file name="080fbfa5e67b0e49afcc3cb62a02dfd9.jpg" crc="4171144428" seo="true" ref="index"/>
+    <file name="u885-6.png" crc="316250094" ref="index"/>
+    <file name="21076528_1998518033714882_1427021182_n.jpg" crc="4131941519" seo="true" ref="index"/>
+    <file name="hero1-crop-u94.jpg" crc="3976411587" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="66776206" seo="true" mt="1510999368091" redirect="true"/>
+</manifest>
